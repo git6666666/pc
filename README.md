@@ -2,7 +2,7 @@
 件|cpu|内存|GPU|价
 -|-|-|-|-
 mini|4pro|64|16|14k
-studio|4max|128|40|25k
+studio|4max|64|40|21k
 studio|3ultra|96|60|30k
 
 
