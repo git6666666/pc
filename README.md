@@ -1,4 +1,11 @@
-# pc
+# Mac
+件|cpu|内存|价
+-|-|-|-
+mini|4pro|64|14k
+studio|4max|128|25k
+studio|3ultra|96|30k
+|
+
 
 ## CPU v3
 |件|单|多|年|价|
