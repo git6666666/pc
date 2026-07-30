@@ -5,6 +5,13 @@ mac neo|3600|a18pro|8
 mac air|7800|m5|16
 ipad air|4700|m4|12
 
+## cpu26mobile
+cpu|单|多|gpu
+-|-|-|-
+a18pro|||
+255|||
+8745|||
+
 ## 26ai
 pc|CPU|存|单|多|GPU|显示|重|Gold
 -|-|-|-|-|-|-|-|-|
