@@ -1,9 +1,9 @@
 ## mac2609
-机|价k|cpu|内存|重
+机|价k|cpu|内存|克
 -|-|-|-|-
-mac neo|4|a18pro|8|
-mac air|8|m5|16|
-ipad air|4.7|m4|12|
+mac neo|4|a18pro|8|1230
+mac air|8|m5|16|1230
+ipad air|4.7|m4|12|464
 
 
 
