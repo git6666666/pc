@@ -19,10 +19,10 @@ mbp|50k|128|5max
 
 
 ## 26mac
-机|价|cpu|内存
+机|价|cpu|存储
 -|-|-|-
 mac neo|3600|a18pro|8
-mac air|7800|m5|16
+mac air|7800|m5|16+512
 ipad air|4700|m4|12
 
 ## 26cpu
